@@ -5,6 +5,7 @@ Upload Files to DropBox with only JavaScript and HTML 5
 
 This is based on the work of Dave Mello who wrote a previous dropbox uploader that can be found here:
 http://www.newfangled.com/direct_javascript_dropbox_api_usage
+
 and Eric Bidelman who wrote an HTML5 file uploader that can be found here:
 http://www.html5rocks.com/en/tutorials/file/dndfiles/
 
